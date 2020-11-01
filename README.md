@@ -1,4 +1,4 @@
-### Hi there Here are some things I am working on👋
+### Hi there Here are some things I am working on👋🏿
 
 Here are some ideas to get you started:
 
@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything!
 - 📫 How to reach me ... keneishacorbett@gmail.com
-- 😄 Pronouns... she/her
+- 👩🏿‍ Pronouns... she/her
 - ⚡ Fun fact ...I love to crochet!
 -->
