@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... keneishacorbett@gmail.com
 - 👩🏿‍ Pronouns... she/her
 - ⚡ Fun fact ...I love to crochet!
--->
