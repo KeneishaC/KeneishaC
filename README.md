@@ -1,4 +1,4 @@
-### Hi there Here are some things I am working on👋🏿
+### Hi there, I'm Keneisha👋🏿
 
 Here are some ideas to get you started:
 
