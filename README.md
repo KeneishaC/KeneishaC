@@ -1,4 +1,4 @@
-#Hi, I'm Keneisha👋🏿
+Hi, I'm Keneisha👋🏿
 
 
 - 🔭 I’m currently working on ...
