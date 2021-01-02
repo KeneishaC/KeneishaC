@@ -1,6 +1,5 @@
-### Hi there, I'm Keneisha👋🏿
+                           # Hi, I'm Keneisha👋🏿
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... the ropes of becoming a fullstack developer
