@@ -1,7 +1,7 @@
-Hi, I'm Keneisha👋🏿
+### Hi, I'm Keneisha👋🏿
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a
 - 🌱 I’m currently learning ... the ropes of becoming a fullstack developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
