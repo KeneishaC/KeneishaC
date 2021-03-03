@@ -13,4 +13,4 @@ JavaScript | React.js| Vanilla Javascript(ES6) |JQuery | HTML5 | CSS3 | Bulma | 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeneishaC&layout=compact)](https://github.com/keneishac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeneishaC&layout=compact)](https://github.com/KeneishaC/github-readme-stats)
