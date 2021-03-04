@@ -6,7 +6,7 @@ I am a Software Engineer with a background in STEM and teaching. I use my experi
 ### Skills
 JavaScript | React.js| Vanilla Javascript(ES6) |JQuery | HTML5 | CSS3 | Bulma | Bootstrap | Express | Node.js | Ruby | Ruby on Rails | PostgreSQL | MongoDB | Mongoose 
 
-[Check out my portfolio!](www.ckeneishacode.dev)
+[Check out my portfolio!](https://www.ckeneishacode.dev/)
  
 
    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KeneishaC&show_icons=true&theme=shades-of-purple)
